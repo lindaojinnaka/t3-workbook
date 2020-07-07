@@ -1,4 +1,3 @@
-# t3-workbook
  ## 1. Provide an overview and description of a standard source control process for a large project 
 
 The standard source control process refers to the process of tracking and managing code within a project. 
